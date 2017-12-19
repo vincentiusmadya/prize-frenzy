@@ -14,7 +14,7 @@ GameState *gameState;
 
 void setup() {
   arduboy.begin();
-  arduboy.setFrameRate(20);
+  arduboy.setFrameRate(30);
   arduboy.initRandomSeed();
   
   gameState = new GameState();
