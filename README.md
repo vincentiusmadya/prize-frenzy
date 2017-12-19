@@ -1,1 +1,1 @@
-# prize-frenzy
+# PRIZE FRENZY
